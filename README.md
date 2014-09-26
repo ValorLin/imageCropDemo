@@ -1,4 +1,7 @@
 # 图片裁剪插件使用方法 #
+效果:
+[点这里看 DEMO](https://weilao.github.io/imageCropDemo)
+
 安装依赖:
 ```cmd
 bower install --save-dev weilao/simple-rangeslider
