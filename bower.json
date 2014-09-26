@@ -1,0 +1,20 @@
+{
+  "name": "imageCrop",
+  "version": "0.0.0",
+  "authors": [
+    "威老 <qqq123026689@126.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "simple-rangeslider": "weilao/simple-rangeslider",
+    "jQuery-crop-ie6": "weilao/jQuery-crop-ie6"
+  }
+}
