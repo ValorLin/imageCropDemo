@@ -7,8 +7,13 @@
 bower install --save-dev weilao/simple-rangeslider
 bower install --save-dev weilao/jQuery-crop-ie6
 ```
-引用js文件:
 
+引用css文件:
+```html
+<link rel="stylesheet" href="bower_components/jQuery-crop-ie6/jquery.crop.css">
+```
+
+引用js文件:
 ```html
 <script type="text/javascript" src="bower_components/simple-rangeslider/libs/jquery/jquery.js"></script>
 <script type="text/javascript" src="bower_components/simple-rangeslider/dist/jquery.simple-rangeslider.js"></script>
